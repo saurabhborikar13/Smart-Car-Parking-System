@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Smart Car Parking System** is a C-based application designed to manage and automate the operations of a car parking facility. It provides functionalities such as vehicle registration, parking space management, vehicle owner membership, vehicle exit handling, and various sorting and reporting features. The system uses linked lists to efficiently manage parking spaces and vehicle records.
+The **Smart Car Parking System** is a C-based program designed to manage and automate the operations of a car parking facility. It provides functionalities such as vehicle registration, parking space management, vehicle owner membership, vehicle exit handling, and various sorting and reporting features. The system uses linked lists to efficiently manage parking spaces and vehicle records.
 
 ---
 
