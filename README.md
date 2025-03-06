@@ -79,14 +79,3 @@ The **Smart Car Parking System** is a C-based program designed to manage and aut
      ```
 
 ---
-
-## **Installation**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Smart-Car-Parking-System.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Smart-Car-Parking-System
-   ```
-3. Compile and run as per the instructions above.
